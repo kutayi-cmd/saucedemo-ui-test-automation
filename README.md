@@ -15,19 +15,9 @@ Maven
 
 📁 Project Structure
 
-src
-└── test
-├── java
-│   └── com.epam.automation
-│       ├── hooks
-│       ├── pages
-│       ├── runners
-│       ├── stepdefinitions
-│       └── utils
-└── resources
-├── features
-├── config.properties
-└── junit-platform.properties
+![Project Structure](docs/images/hm.png)
+
+The project follows a layered test automation architecture including hooks, pages, step definitions, and utilities.
 
 ✅ Features Covered
 
