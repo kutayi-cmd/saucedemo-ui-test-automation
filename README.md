@@ -75,6 +75,8 @@ src/test/resources/config.properties
 Example:
 baseUrl=https://www.saucedemo.com/
 browser=chrome
+or
+browser=firefox
 
 🧪 BDD Example
 
@@ -88,7 +90,7 @@ And Swag Labs title should be visible
 
 Basic logging is implemented using SLF4J.
 
-Example Output
+Example Output:
 INFO Hooks - Starting test execution on browser: chrome
 
 ⚠️ Notes
