@@ -43,7 +43,7 @@ Browser selection is controlled via system property:
 
 If no parameter is provided, the default browser is taken from config.properties.
 
-⚡ Parallel Execution
+Parallel Execution
 Thread-safe WebDriver management using ThreadLocal
 Parallel execution supported via IntelliJ Compound Run Configuration
 How to Run Tests From IntelliJ
