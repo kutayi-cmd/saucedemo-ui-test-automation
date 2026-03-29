@@ -90,7 +90,8 @@ Maven may show Tests run: 0 — this is expected behavior with Cucumber.
 A discovery warning may appear, but it does not affect execution.
 In some cases, first scenario log output may not appear.
 This is due to Cucumber + JUnit lifecycle behavior.
-It does not affect test execution
+It does not affect test execution.
+And to make it look professional, help was obtained from ChatGPT regarding naming conventions and project structure.
 
 👤 Author
 Kutay 🚀
