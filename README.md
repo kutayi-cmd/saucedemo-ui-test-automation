@@ -95,11 +95,11 @@ INFO Hooks - Starting test execution on browser: chrome
 
 ⚠️ Notes
 
-Cucumber is integrated with JUnit 5 via junit-platform.properties
-Maven may show Tests run: 0 — this is expected behavior with Cucumber
-A discovery warning may appear, but it does not affect execution
-In some cases, first scenario log output may not appear
-This is due to Cucumber + JUnit lifecycle behavior
+Cucumber is integrated with JUnit 5 via "junit-platform.properties".
+Maven may show Tests run: 0 — this is expected behavior with Cucumber.
+A discovery warning may appear, but it does not affect execution.
+In some cases, first scenario log output may not appear.
+This is due to Cucumber + JUnit lifecycle behavior.
 It does not affect test execution
 
 👤 Author
